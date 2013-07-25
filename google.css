@@ -1,0 +1,48 @@
+div.headlist{
+background-color:black;
+width=150px;
+height=20px;
+
+}
+
+#mydiv{
+position:relative;
+top:190px;
+left:50px;
+background-color:white;
+height:200px;
+
+}
+#mydiv img{
+position:relative;
+left:400px;
+top:100px;
+width:300px;
+
+}
+#mydiv form input{
+position:relative;
+top:100px;
+left: 350px;
+width:400px;
+}
+
+#signin{
+position:relative;
+top:20px;
+float:right;
+right:20px;
+height:40px;
+background-color:#E83535;
+color:white;
+font-weight:bold;
+border:none;
+}
+#signin:hover {
+  background-color: #C42B2B;
+}
+
+a:link {text-decoration: none; font-weight:bold; color:#696969;font-size:130%;padding-right:30px; }    /* unvisited link */
+a:visited {text-decoration: none;font-weight:bold;color:blue;font-size:130%;padding-right:30px; } /* visited link */
+a:hover {text-decoration: none;font-weight:bold;color:white;font-size:130%;padding-right:30px; }   /* mouse over link */
+a:active {text-decoration: none;font-weight:bold;color:white;font-size:130%;padding-right:30px; }  /* selected link */
